@@ -1,4 +1,15 @@
 # MyC-codes
-All collection of famous and Basic C++ codes in very easy way
+All collection of famous  C++ Algorithms codes in very easy way
 
-Hello World
+Sorting Algorithms
+1. Radixsort
+
+
+Tree Algorithms
+1. AVL Tree
+
+Graph Algorithms
+1. DFS
+2. BFS
+3. Dijsktra
+4. Toposort
