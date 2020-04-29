@@ -20,6 +20,10 @@ Maximum Subarray Algorithms
 1. Kadane algorithms
 2. Kadane Circular subarray
 
+Backtracking Algorithms
+1. Knight Tour
+
 Other Algorithms
 1. Union-find method
 2. Union-find using Vector
+3. Huffman Coding
