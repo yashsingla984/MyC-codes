@@ -22,6 +22,7 @@ Maximum Subarray Algorithms
 
 Backtracking Algorithms
 1. Knight Tour
+2. Sudoku
 
 Other Algorithms
 1. Union-find method
